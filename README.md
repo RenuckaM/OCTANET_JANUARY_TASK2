@@ -2,6 +2,9 @@
 # TO-DO LIST
 Creating a TO-DO List using HTML,CSS and JavaScript
 
+## TO-DO LIST Demo: 
+This web page is hosted [here!]
+
 ## Features
 
 1. User-friendly
