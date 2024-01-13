@@ -35,8 +35,8 @@ This web page is hosted [here!](https://renuckam.github.io/OCTANET_JANUARY_TASK2
 
 ## Output Snapshots
 ![image](https://github.com/RenuckaM/OCTANET_JANUARY_TASK2/assets/147283564/c2ebdfba-b273-4446-9bcf-da0735613df7)
-![image](https://github.com/RenuckaM/OCTANET_JANUARY_TASK2/assets/147283564/270ea9d0-a6c7-4cd9-ac62-6d145d66d57d)
 ![image](https://github.com/RenuckaM/OCTANET_JANUARY_TASK2/assets/147283564/ee160797-4aa4-4c16-9583-2a41d0d6de6e)
+![image](https://github.com/RenuckaM/OCTANET_JANUARY_TASK2/assets/147283564/270ea9d0-a6c7-4cd9-ac62-6d145d66d57d)
 ![image](https://github.com/RenuckaM/OCTANET_JANUARY_TASK2/assets/147283564/dbec5b60-7af4-4f73-88c3-086b9af7109e)
 
 
