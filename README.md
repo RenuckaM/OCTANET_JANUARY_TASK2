@@ -33,6 +33,8 @@ Creating a TO-DO List using HTML,CSS and JavaScript
 ## Output Snapshots
 ![image](https://github.com/RenuckaM/OCTANET_JANUARY_TASK2/assets/147283564/c2ebdfba-b273-4446-9bcf-da0735613df7)
 ![image](https://github.com/RenuckaM/OCTANET_JANUARY_TASK2/assets/147283564/270ea9d0-a6c7-4cd9-ac62-6d145d66d57d)
+![image](https://github.com/RenuckaM/OCTANET_JANUARY_TASK2/assets/147283564/ee160797-4aa4-4c16-9583-2a41d0d6de6e)
+
 
 
 
