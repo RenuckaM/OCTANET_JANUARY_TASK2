@@ -31,4 +31,6 @@ Creating a TO-DO List using HTML,CSS and JavaScript
 * For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
 
 ## Output Snapshots
+![image](https://github.com/RenuckaM/OCTANET_JANUARY_TASK2/assets/147283564/c2ebdfba-b273-4446-9bcf-da0735613df7)
+
 
